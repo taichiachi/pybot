@@ -1,0 +1,17 @@
+{
+   "CONFIG": {
+      "BOT_INFO": {
+         "PREFIX": "/",
+         "ADMIN_ID": [
+         "100039153097506"
+         ],
+         "EMAIL": "primeapiq1@gmail.com",
+         "PASSWORD": "cocomelon1"
+      },
+      "PAGE_ACCOUNTS": {
+         "ACCOUNTS": [
+            "primeapiq1@gmail.com|cocomelon1"
+         ]
+      }
+   }
+}
